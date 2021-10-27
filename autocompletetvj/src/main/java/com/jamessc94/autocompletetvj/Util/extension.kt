@@ -79,14 +79,3 @@ fun String.titleExtraSperation() : Triple<String, String, String> {
     return Triple(text, extra, img)
 
 }
-
-fun View.weightChanged(weight : Float) : View {
-
-    layoutParams = LinearLayout.LayoutParams(0, (500f * weight).toInt(), weight).apply {
-        setMargins(15,0,0,0)
-
-    }
-
-    return this
-
-}
