@@ -124,15 +124,23 @@ class OtherModelWTI(private val id : Int, private val data : String, private val
 
 Happy coding
 
+
 Default
+
 ![WhatsApp Image 2021-10-27 at 12 17 52](https://user-images.githubusercontent.com/22164016/138999293-f8f662c2-4518-45d8-ac12-d2d1bc4e8e85.jpeg)
 
+
 Define Textview only layout
+
 ![WhatsApp Image 2021-10-27 at 12 17 51 (2)](https://user-images.githubusercontent.com/22164016/138999318-e2bf4b00-5699-4e01-aa23-9b10a0f13223.jpeg)
 
+
 Define layout with textview
+
 ![WhatsApp Image 2021-10-27 at 12 17 51 (1)](https://user-images.githubusercontent.com/22164016/138999354-2aa987b8-fdac-41a9-bd81-ee2b377b30ba.jpeg)
 
+
 Define layout with textview + delete button
+
 ![WhatsApp Image 2021-10-27 at 12 17 51](https://user-images.githubusercontent.com/22164016/138999382-7009c227-acb8-440a-ac3d-72f8887237a8.jpeg)
 
